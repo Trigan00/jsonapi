@@ -82,14 +82,14 @@
     "price": 3000,
     "id": 11,
     "imgURL": "../img/white.png"
-  }
+  },
   {
     "SectionName": "Штаны",
     "name": "синие штаны",
     "price": 5000,
     "id": 12,
     "imgURL": "../img/blue.png"
-  }
+  },
 {
     "SectionName": "Штаны",
     "name": "Белые штаны",

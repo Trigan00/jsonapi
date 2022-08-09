@@ -60,7 +60,7 @@
     "name": "Белые кроссовки",
     "price": 3200,
     "id": 8,
-    "imgURL": "../img/white.png"
+    "imgURL": "https://images.wbstatic.net/big/new/20960000/20965864-1.jpg"
   },
   {
     "SectionName": "Шорты",

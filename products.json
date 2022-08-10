@@ -1,7 +1,7 @@
 [
   {
-    "SectionName": "Кофты",
-    "name": "Белая кофта",
+    "SectionName": "Худи",
+    "name": "Белый худи",
     "price": 3000,
     "id": 0,
     "imgURL": "../img/white.png"

@@ -84,8 +84,8 @@
     "imgURL": "../img/white.png"
   },
   {
-    "SectionName": "Штаны",
-    "name": "синие штаны",
+    "SectionName": "Framed paintings",
+    "name": "Framed painting 1",
     "price": 5000,
     "id": 12,
     "imgURL": "../img/blue.png"

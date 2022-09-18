@@ -82,5 +82,40 @@
     "price": 100,
     "id": 11,
     "imgURL": "../img/clock2.png"
+  },
+  {
+    "SectionName": "Lightboxes",
+    "name": "Tiger",
+    "price": 150,
+    "id": 12,
+    "imgURL": "../img/light1.png"
+  },
+  {
+    "SectionName": "Lightboxes",
+    "name": "Skull",
+    "price": 160,
+    "id": 13,
+    "imgURL": "../img/light2.png"
+  },
+  {
+    "SectionName": "Lightboxes",
+    "name": "Field",
+    "price": 170,
+    "id": 14,
+    "imgURL": "../img/light3.png"
+  },
+  {
+    "SectionName": "Lightboxes",
+    "name": "Hands",
+    "price": 150,
+    "id": 15,
+    "imgURL": "../img/light4.png"
+  },
+  {
+    "SectionName": "Lightboxes",
+    "name": "kiss",
+    "price": 150,
+    "id": 16,
+    "imgURL": "../img/light5.png"
   }
 ]

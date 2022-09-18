@@ -47,5 +47,26 @@
     "price": 60,
     "id": 6,
     "imgURL": "../img/frame3.png"
+  },
+  {
+    "SectionName": "Posters",
+    "name": "Sunset 1",
+    "price": 50,
+    "id": 7,
+    "imgURL": "../img/poster1.png"
+  },
+  {
+    "SectionName": "Posters",
+    "name": "Sunset 2",
+    "price": 55,
+    "id": 8,
+    "imgURL": "../img/poster2.png"
+  },
+  {
+    "SectionName": "Posters",
+    "name": "Night sea",
+    "price": 50,
+    "id": 9,
+    "imgURL": "../img/poster3.png"
   }
 ]

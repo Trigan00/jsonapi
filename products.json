@@ -26,11 +26,12 @@
     "price": 3000,
     "id": 0,
     "imgURL": "../img/pink.png"
-  },{
+  },
+  {
     "SectionName": "Lightboxes",
     "name": "Lightboxes 1",
     "price": 3000,
     "id": 0,
     "imgURL": "../img/yellow.png"
-  },
+  }
 ]

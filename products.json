@@ -29,9 +29,23 @@
   },
   {
     "SectionName": "Framed paintings",
-    "name": "Framed painting 1",
-    "price": 5000,
+    "name": "Field",
+    "price": 63,
     "id": 4,
-    "imgURL": "../img/blue.png"
+    "imgURL": "../img/frame1.png"
+  },
+  {
+    "SectionName": "Framed paintings",
+    "name": "Eagle",
+    "price": 70,
+    "id": 5,
+    "imgURL": "../img/frame2.png"
+  },
+  {
+    "SectionName": "Framed paintings",
+    "name": "Trees",
+    "price": 60,
+    "id": 6,
+    "imgURL": "../img/frame3.png"
   }
 ]

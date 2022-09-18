@@ -1,10 +1,31 @@
 [
   {
     "SectionName": "Modular paintings",
-    "name": "Modular painting 1",
-    "price": 3000,
+    "name": "Flowers (white)",
+    "price": 85,
     "id": 0,
-    "imgURL": "../img/white.png"
+    "imgURL": "../img/module1.png"
+  },
+  {
+    "SectionName": "Modular paintings",
+    "name": "Dog",
+    "price": 90,
+    "id": 0,
+    "imgURL": "../img/module2.png"
+  },
+  {
+    "SectionName": "Modular paintings",
+    "name": "Flowers (yellow)",
+    "price": 100,
+    "id": 0,
+    "imgURL": "../img/module3.png"
+  },
+  {
+    "SectionName": "Modular paintings",
+    "name": "City",
+    "price": 85,
+    "id": 0,
+    "imgURL": "../img/module4.png"
   },
   {
     "SectionName": "Framed paintings",

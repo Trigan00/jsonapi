@@ -7,94 +7,30 @@
     "imgURL": "../img/white.png"
   },
   {
-    "SectionName": "Футболки",
-    "name": "Желтая футболка",
-    "price": 1200,
-    "id": 1,
-    "imgURL": "img/yellow.png"
-  },
-  {
-    "SectionName": "Штаны",
-    "name": "Черные штаны",
-    "price": 2500,
-    "id": 2,
-    "imgURL": "../img/black.png"
-  },
-  {
-    "SectionName": "Кроссовки",
-    "name": "Розовые кроссовки",
-    "price": 3000,
-    "id": 3,
-    "imgURL": "https://www.tvtshop.ru/upload/store/Products/Products78503/a64633.jpg"
-  },
-  {
-    "SectionName": "Кроссовки",
-    "name": "Черные кроссовки",
-    "price": 3100,
-    "id": 4,
-    "imgURL": "https://lazurka-mall.ru/assets/images/products/4210/middle/173147-zhenskie-krossovki-balenciaga-track-chernye-3.jpg"
-  },
-  {
-    "SectionName": "Кроссовки",
-    "name": "Белые кроссовки",
-    "price": 3200,
-    "id": 5,
-    "imgURL": "../img/white.png"
-  },
-  {
-    "SectionName": "Кроссовки",
-    "name": "Розовые кроссовки",
-    "price": 3000,
-    "id": 6,
-    "imgURL": "../img/pink.png"
-  },
-  {
-    "SectionName": "Кроссовки",
-    "name": "Черные кроссовки",
-    "price": 3100,
-    "id": 7,
-    "imgURL": "../img/black.png"
-  },
-  {
-    "SectionName": "Кроссовки",
-    "name": "Белые кроссовки",
-    "price": 3200,
-    "id": 8,
-    "imgURL": "https://images.wbstatic.net/big/new/20960000/20965864-1.jpg"
-  },
-  {
-    "SectionName": "Шапки",
-    "name": "Оранжевая шапка",
-    "price": 2000,
-    "id": 9,
-    "imgURL": "../img/orange.png"
-  },
-  {
-    "SectionName": "Куртки",
-    "name": "Синяя куртка",
-    "price": 5000,
-    "id": 10,
-    "imgURL": "../img/blue.png"
-  },
-  {
-    "SectionName": "Штаны",
-    "name": "Белые штаны",
-    "price": 3000,
-    "id": 11,
-    "imgURL": "../img/white.png"
-  },
-  {
     "SectionName": "Framed paintings",
-    "name": "Framed painting 1",
-    "price": 5000,
-    "id": 12,
+    "name": "Framed paintings 1",
+    "price": 3000,
+    "id": 0,
+    "imgURL": "../img/black.png"
+  },
+  {
+    "SectionName": "Posters",
+    "name": "Posters 1",
+    "price": 3000,
+    "id": 0,
     "imgURL": "../img/blue.png"
   },
-{
-    "SectionName": "Штаны",
-    "name": "Белые штаны",
-    "price": 4000,
-    "id": 13,
-    "imgURL": "https://nazya.com/anyimage/ae01.alicdn.com/kf/HTB16rK0PVXXXXXsXFXXq6xXFXXX9/2017.jpg"
-  }
+  {
+    "SectionName": "Clock-paintings",
+    "name": "Clock-paintings 1",
+    "price": 3000,
+    "id": 0,
+    "imgURL": "../img/pink.png"
+  },{
+    "SectionName": "Lightboxes",
+    "name": "Lightboxes 1",
+    "price": 3000,
+    "id": 0,
+    "imgURL": "../img/yellow.png"
+  },
 ]

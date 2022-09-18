@@ -1,6 +1,6 @@
 [
   {
-    "SectionName": "Modular paintings",
+    "SectionName": "Modular_paintings",
     "name": "Modular painting 1",
     "price": 3000,
     "id": 0,
@@ -84,7 +84,7 @@
     "imgURL": "../img/white.png"
   },
   {
-    "SectionName": "Framed paintings",
+    "SectionName": "Framed_paintings",
     "name": "Framed painting 1",
     "price": 5000,
     "id": 12,

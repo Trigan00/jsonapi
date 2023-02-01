@@ -1,0 +1,121 @@
+[
+    {
+      "title": "Постановка на учет",
+      "subTitles": [
+        {
+          "subTitle": "Постановка на учет",
+          "src": ""
+        },
+        {
+          "subTitle": "I категория",
+          "src": ""
+        },
+        {
+          "subTitle": "II категория",
+          "src": ""
+        },
+        {
+          "subTitle": "III категория",
+          "src": ""
+        },
+        {
+          "subTitle": "IV категория",
+          "src": ""
+        }
+      ]
+    },
+    {
+      "title": "Отчетность",
+      "subTitles": [
+        {
+          "subTitle": "Статистика",
+          "src": ""
+        },
+        {
+          "subTitle": "Декларация",
+          "src": ""
+        },
+        {
+          "subTitle": "Отчет ПЭК",
+          "src": ""
+        },
+        {
+          "subTitle": "Экосбор",
+          "src": ""
+        }
+      ]
+    },
+    {
+      "title": "Выбросы",
+      "subTitles": [
+        {
+          "subTitle": "Инвентаризация",
+          "src": ""
+        },
+        {
+          "subTitle": "НДВ",
+          "src": ""
+        },
+        {
+          "subTitle": "НМУ",
+          "src": ""
+        }
+      ]
+    },
+    {
+      "title": "Сбросы",
+      "subTitles": [
+        {
+          "subTitle": "ЗСО",
+          "src": ""
+        },
+        {
+          "subTitle": "НДС",
+          "src": ""
+        },
+        {
+          "subTitle": "Формы 3.1, 3.2, 3.3",
+          "src": ""
+        }
+      ]
+    },
+    {
+      "title": "Отходы",
+      "subTitles": [
+        {
+          "subTitle": "Паспортизация",
+          "src": ""
+        },
+        {
+          "subTitle": "Лицензирование",
+          "src": ""
+        },
+        {
+          "subTitle": "Лимиты",
+          "src": ""
+        },
+        {
+          "subTitle": "Журнал отходов",
+          "src": ""
+        }
+      ]
+    },
+    {
+      "title": "СЗЗ",
+      "subTitles": [
+        {
+          "subTitle": "СЗЗ",
+          "src": ""
+        }
+      ]
+    },
+    {
+      "title": "Обучение",
+      "subTitles": [
+        {
+          "subTitle": "Обучение",
+          "src": ""
+        }
+      ]
+    }
+  ]
